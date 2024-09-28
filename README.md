@@ -1,4 +1,4 @@
-# Comprehensive Analysis of University Programs in Somalia
+# Comprehensive Analysis of University Programs in Mogadishu, Somalia
 
 ## Project Overview
 This project aims to provide an in-depth analysis of university programs in Somalia, focusing on two key aspects: **Program Duration** and **Tuition Fees**. By examining data across different faculties and universities, we uncover important trends and insights that can inform strategic decisions for both institutions and students.
